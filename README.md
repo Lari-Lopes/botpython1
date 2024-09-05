@@ -7,19 +7,19 @@ Criar repositório no Github através do terminal
 
 3 - Entrar na pasta que irá criar o repositório com o comando cd, ex: cd downloads
 
-4 - Criar a pasta de destino com mkdir ex: mkdir pythonexpress
+4 - Criar a pasta de destino com mkdir ex: mkdir botpython1
 
 5 - Aplicar o comando pwd para verificar em qual pasta está
 
-6 - Entrar na pasta que foi criado com o comando cd ex: cd pythonexpress
+6 - Entrar na pasta que foi criado com o comando cd ex: cd botpyhton1
 
 7 - Clonar o repositório do github code HTTPS (copiar)
 
-8 - Aplicar o comando git clone no terminal ex: git clone https://github.com/Lari-Lopes/Pythonexpressautomacao.git (colar)
+8 - Aplicar o comando git clone no terminal ex: git clone https://github.com/Lari-Lopes/botpython1.git (colar)
 
 9 - Aplicar o comando pwd para verificar em qual pasta está
 
-10 - Ir até a main cd ex: cd pythonexpressautomacao
+10 - Ir até a main cd ex: cd botopython1
 
 11 - Executar comando ls -ltr para ver tudo que tem dentro da pasta
 
